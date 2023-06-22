@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                         WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
 
-/////
+
                 m.setAnimation(bottom);
 
         Handler handler = new Handler();
